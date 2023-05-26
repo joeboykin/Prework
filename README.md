@@ -24,6 +24,8 @@ The following **required** functionality is completed:
 
 # Video Walkthrough PreWork
 Here's a walkthrough of implemented user stories:
+
+
 <img src='https://github.com/joeboykin/Prework/blob/0668f35144df7f054e4d3b599fd2b179112ced54/Toast-2_Prework.gif' title='PreWork' width='' alt='PreWork'/>
 
 Notes
