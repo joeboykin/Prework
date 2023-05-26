@@ -22,8 +22,24 @@ The following **required** functionality is completed:
 - [x] Understand layout designs and Views
 - [x] Adding new methods to activity class "OnClick"
 
+# Video Walkthrough PreWork
+Here's a walkthrough of implemented user stories:
+<img src='https://github.com/joeboykin/Prework/blob/0668f35144df7f054e4d3b599fd2b179112ced54/Toast-2_Prework.gif' title='PreWork' width='' alt='PreWork'/>
 
-I had trouble shoot using the 'emulator slides' here - https://docs.google.com/presentation/d/1_MV5L7vhGQEyNIqxlz5OUW0RzbTo7v9oL1oZeAeIEzY/edit#slide=id.g2301961c90_0_120
-The onClickListener is not working properly.
-I attached screenshots for your review via google drive
-Here: https://drive.google.com/drive/folders/1NmtxuSelsm721ab5vgwTMxyJGIPEqxzD?usp=sharing
+Notes
+- [x] Syntax challenges such as indentation and commas.
+
+## License
+    Copyright [2023] [Joseph Boykin]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
